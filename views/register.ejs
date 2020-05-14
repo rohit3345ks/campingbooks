@@ -1,0 +1,24 @@
+<%- include('partials/header.ejs') %>
+
+<div class='container' style='min-height: 100vh;'>
+	<div class='row col-lg-8 col-md-8 mx-auto'>
+		<h1 class='text-center col-lg-12 col-md-12'>
+			Sign up to YelpCamp
+		</h1>
+		<div style='margin: 25px auto;' class='col-lg-12 col-md-12'>
+			<form action='/register' method='POST'>
+				<div class='form-group'>
+					<input class="form-control" type='text' name='username' placeholder='Username'>
+				</div>
+				<div class='form-group'>
+					<input class="form-control" type='password' name='password' placeholder='Password'>
+				</div>
+				<div class='form-group'>
+					<input class="btn btn-lg btn-primary btn-block" type='submit' value='Sign Up'>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<%- include('partials/footer.ejs') %> 

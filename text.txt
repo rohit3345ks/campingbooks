@@ -1,0 +1,27 @@
+what are u saying about terminal preview?
+The terminal at the bottom side of vs code windows doesn't show output as desired.
+Means if you are executing something on your machine, you will see the output without any issue
+but I will face some issues
+The good thing is, it doesn't happen all the time
+lets try that
+What sir?
+write some code in terminal
+okay sir
+all good 
+okay sir
+are u able to see my code
+no sir
+so I am 
+
+then how to collaborate?
+
+sir, you need to share the file from your side.
+
+ok it means we cant able to see our files with one connection
+
+i have to share 
+no sir
+for collaborative ses
+ok i will also share then
+wait....
+see the link on skype plz
