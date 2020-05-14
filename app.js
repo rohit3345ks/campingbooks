@@ -23,7 +23,7 @@ var campgroundRoutes=require('./routes/campgrounds'),
 
 // var passportLocalMongoose=require('passport-local-mongoose');
 
-var url=process.env.DATABASEURL|| "mongodb+srv://rohit:3345@database-gmiut.mongodb.net/yelpcampdevelopment?retryWrites=true&w=majority";
+var url=process.env.DATABASEURL|| "mongodb+srv://rohit:3345@database-gmiut.mongodb.net/test?retryWrites=true&w=majority";
 
 mongoose.connect(url,{
 	useNewUrlParser: true,
