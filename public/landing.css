@@ -43,22 +43,22 @@ body{
 
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://ibb.co/5hRysmN); 
+  background-image: url(https://i.ibb.co/NynRnww/1.jpg); 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(https://ibb.co/s2sfJQX);
+  background-image: url(https://i.ibb.co/7SsgQNy/2.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://ibb.co/N1jDYK6);
+  background-image: url(https://i.ibb.co/Brdc91z/3.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(https://ibb.co/gF1mfQ6);
+  background-image: url(https://i.ibb.co/8dk2nr3/4.jpg);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(https://ibb.co/Z659jFX);
+  background-image: url(https://i.ibb.co/N2dbVyR/5.jpg);
   animation-delay: 40s; 
 }
 
