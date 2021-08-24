@@ -31,8 +31,9 @@ mongoose.connect(url,{
 	useUnifiedTopology: true,
 	useFindAndModify: false
 }).then(function(){
-	console.log('Connected to db');
+	console.log('Connected to database');
 }).catch(function(err){
+	console.log("Couldn't connect to database");
 	console.log('Error'+err.message);
 });
 

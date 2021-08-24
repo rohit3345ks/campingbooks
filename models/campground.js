@@ -16,8 +16,7 @@ var campSchema=new mongoose.Schema({
 		ref: 'user'
 		},
 		username: String
-	},
-	
+	},	
 });
 
 
